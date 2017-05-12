@@ -1,0 +1,20 @@
+--- Marlin/Configuration.h	2017-05-08 12:25:10.596782049 +0200
++++ ../Configuration.h	2017-05-08 12:51:20.403926193 +0200
+@@ -1307,7 +1307,7 @@
+ //
+ // Note: Usually sold with a white PCB.
+ //
+-//#define REPRAP_DISCOUNT_SMART_CONTROLLER
++#define REPRAP_DISCOUNT_SMART_CONTROLLER
+ 
+ //
+ // GADGETS3D G3D LCD/SD Controller
+@@ -1321,7 +1321,7 @@
+ // RepRapDiscount FULL GRAPHIC Smart Controller
+ // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
+ //
+-#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
++//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+ 
+ //
+ // MakerLab Mini Panel with graphic

@@ -1,0 +1,15 @@
+Datos de Configuración del Firmware
+
+
+Termistor H : 5
+Termistor B : 1
+
+Finales min
+Finales en el normalmente cerrado
+Protección termica hotend / heated bed
+Activado EndsTop interrupts
+Preheat time 10s
+Kick fan 100ms
+Home bump :3mm
+Quick_home
+Activado cambio de filamento

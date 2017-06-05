@@ -1,0 +1,11 @@
+--- Marlin/Configuration.h	2017-05-08 12:25:10.596782049 +0200
++++ ../Configuration.h	2017-05-08 12:45:29.787926193 +0200
+@@ -118,7 +118,7 @@
+ // The following define selects which electronics board you have.
+ // Please choose the name from boards.h that matches your setup
+ #ifndef MOTHERBOARD
+-  #define MOTHERBOARD BOARD_RAMPS_14_EFB
++  #define MOTHERBOARD BOARD_RUMBA
+ #endif
+ 
+ // Optional custom name for your RepStrap or other custom machine
